@@ -25,6 +25,13 @@ MCQ Generator is an innovative tool that automatically generates multiple-choice
     OPENAI_API_KEY=your_api_key_here
     streamlit run app.py
 
+## Running the Application
+```
+streamlit run StreamLitApp.py
+```
+
+## Sample Image
+![MCQ Generator Interface](image_2024-07-03_015803555.png)
 
 ## How it Works
 The MCQ Generator uses a Langchain Sequential Chain with two main components:
